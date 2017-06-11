@@ -1,0 +1,28 @@
+Register adoption as an example of "Trello to Google Sheets"
+
+As is
+  * The Register’s adoption engagement tracker trello
+  * The Register’s overview google sheet
+  * The “adoption” tab lists every service and various information about the stage of adoption
+  * The “use by register” tab list lists every register and which services are (or may in future) use it
+* The “engagement” tab lists every organisation and which of their services we’re working with
+
+Proposed - common
+  * Define a standard format for description part of Trello cards so that it can be easily accessed programmatically
+  * Have a standard format YAML file for Trello and Google Sheet credentials
+  * Write a standard python object to store data for any Trello card (including breaking down the description into a dictionary)
+
+Write library functions to:
+  * Connect to any Trello board
+  * Read all the cards in the board into an array of standard objects
+  * Connect to any Google Sheet
+  * Write test code using an example board and sheet
+
+Proposed - specific
+  * Write specific code to generate each of the 3 tabs in the Register’s overview sheet using the library functions
+  * Implement on Heroku with a “cron job”
+
+Proposed - generic
+  * Write code that consumes a ‘code’ file that specifies how to map between any trello board and any sheet
+  * Would require support for language constructs such as loops
+
