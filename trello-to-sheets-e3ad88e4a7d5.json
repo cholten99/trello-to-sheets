@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plenary-hangout-93402",
+  "private_key_id": "e3ad88e4a7d5cabbadc21900a4a014eff67b387f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCS5kuqYKpKXKgj\n/jw6HHZwJr6DVCCAKZ2ZOHBpjdhFX3VRL/9QUnodVKFmSjCPmO3L6wml/oR12aRV\n7xgqdmrWo20UkZeyWHe+bafe/6ifFwtLN2C18ubRY5dcKLVtc1Smty7QGELixYie\ndwUDjPhiUsX19LfMgexlZEM+FXDTZ3FtefhCgeeoeIAwWUUbhQgK0FYzpdlfnvtp\nQ82+rID9IQR9SZ5JocKYRgK88PfK7p1ndPEIBzSS01dz5ES6+DzSjxaz5XB3WPnK\nbki6d/QxHfdoKR76ha0FK313UgDzbamqZt8jK5jSeUllyfoW93Cu9dLWQor5Mfk3\nRGhpDBZ/AgMBAAECggEAIQfHW7gAklfjNrSjti1QNEeB7uWrqSWyWhFmtVU/m9mq\n92ZjchwZeR7ea7Gi2ab5UTC4Kqrf/d/CI9BvDp0xyLFWhZl3EpLx2c+uP2Yc9Ciq\nUW9SP5cub0aFciN1J/cWwaXO0NujrnncDkWUyweXkgQqnvM3oLRWAzZYKE2J4P66\nM/3U2ydIwNGhZpa6bj90SOQGFsAkVfo+cj3dYQqfS5UoMqtNn2gukr0kkSuzJ++W\nMLDIHUo2ZohaWobeYvdfAYfUact7jbPubB5JGfGErX4P1OvvHeSOcEsjMJ5f47QC\n9pKbkGOhj4I5EMte237zrHxPmekJj4OLIfB5kN1lAQKBgQDHhDf4k7Bu3qWi+Q5p\nD9RjYsImUX5DVPcxvwVbg476NsoPlPxaDEPgqZ1t7fAafsscSs34WNiu1CtKkT1x\neBRq9oZayvnrzQ3ifEujF1akjWI7eA41hVrDSdjJE2t5eRniHI2Kp2xojuvAuQF4\nP+5u8ApuyKhFztdZKew+4cxLuQKBgQC8fLbdnabgU4LGAKvZdSSCC2uZUhBSq1ca\nVYfVey9PWmoR9QbwHDBVGG0/yFPmIQHnZVs2s93ZrOOEorMttHma8m4V8LRjtN1d\nWZa+O4uD6bs5hf+aEZg264WCtZfbqcpaIed4ApIgFnUz2Fh+8OxkOPGS64qk6aPS\nRHTeu/C/9wKBgDh4JrNXccdfgvgGj9qSnWVnzVW1GQyLns9YpnaJXM1a9oPEgkwm\nTovm1eUIRD3rhydB0NwqoWGSMZKQWxijiPvhPJO0AVqJFhX1Yh8N+vrl/VihmTvy\nu4asfwwiT/f4m6fQtwr4agmJ8hYBBvZ2+dAyZnGGn4Hqki7tW61MkVsZAoGBAKHu\nw2xCNUwkcwWJLhr0+RiAl0BxsHRVn8+QC9LssgiKtPYYfI1sqllxUuqpQOtFEE2s\nVmD4xnBsiEs7PJTXqGHmRY2z7kZ67HN2tHtazNHXzHHvHVlQJGWKknlpab3ecWpe\nFm6URtYqdSbFh8IHWhAAnAqNMd/cmlHbXky9SmihAoGBALhJDArUu6izjc7UW74F\nrGsDsZXOP7x+OVTdGezXGkIE9ib5bzO47Uaka6HLd9PJGCCb8tCdqtPLywUOehtI\nPemSgb6COqS+moxMKS5JagAzcnyN5GnMQRtHJ3b0L1ul4H0HgzrNZJ29ysiWyhyg\nbDEFRL8PbF9gaeSYTLT8boPl\n-----END PRIVATE KEY-----\n",
+  "client_email": "trello-to-sheets@plenary-hangout-93402.iam.gserviceaccount.com",
+  "client_id": "114672676769231528421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trello-to-sheets%40plenary-hangout-93402.iam.gserviceaccount.com"
+}
