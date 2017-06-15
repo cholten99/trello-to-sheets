@@ -48,14 +48,18 @@ for card in card_list:
         card.location_picker = True
         break
 
+  # Tokenise and store sections of description
+  description = card.description
+  line_list = description.split("\n")
+  for line in line_list:
+    if ": " not in line:
+      continue
+    else:
+      parts = line.split(": ")
+      setattr(card, parts[0], parts[1])
 
 
-
-# TBD - ADDING MORE DATA TO THE CARD OBJECT BY TOKENISING THE CARD DESCRIPTION!!
-
-
-
-
+"""
 
 # For testing
 for card in card_list:
@@ -65,4 +69,7 @@ for card in card_list:
   print "Organisation : " + card.organisation
   print "Registers : " + ", ".join(card.registers)
   print "Location picker : True" if (card.location_picker == True) else "Location picker : False"
+  print "Attributes : " + ", ".join(card.__dict__.keys())
   print "+++++++"
+
+"""
